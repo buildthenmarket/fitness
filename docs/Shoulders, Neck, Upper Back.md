@@ -72,4 +72,4 @@ By consistently performing these exercises, you can strengthen your rhomboids an
 
 ### Warmups
 
-- <https://www.instagram.com/reel/DCXBNK_AfgV/>
+- [Instagram Reel](https://www.instagram.com/reel/DCXBNK_AfgV/)

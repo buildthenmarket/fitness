@@ -120,7 +120,7 @@ ankle weights
 
 ### Dragon squats
 
-- <https://www.youtube.com/shorts/twrkLXD_JSY>
+- [YouTube Shorts](https://www.youtube.com/shorts/twrkLXD_JSY)
 - [dumbbell leg exercises](https://www.youtube.com/shorts/Jvvl_ClWQdo)
 - [dumbbell leg](https://www.youtube.com/shorts/Fp0W8L-fumI)
 

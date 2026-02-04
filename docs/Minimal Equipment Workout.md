@@ -27,7 +27,7 @@
 - Rucking
 - Gait
 
-<https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301>
+[Lifehacker Article](https://lifehacker.com/what-is-heel-toe-drop-and-does-it-matter-for-runners-1849596301)
 
 #### Walking Every morning
 
@@ -285,7 +285,7 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 
 ### Chair
 
-- <https://x.com/FitnessF0rWomen/status/1954596409035944101>
+- [X Post](https://x.com/FitnessF0rWomen/status/1954596409035944101)
 - [![Chair Ab workout](https://img.youtube.com/vi/KLotHOIgc7s/0.jpg)](https://www.youtube.com/watch?v=shorts/KLotHOIgc7s)
 - dips
 - dips with leg lift

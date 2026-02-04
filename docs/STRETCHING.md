@@ -4,7 +4,7 @@
 
 ![Stretching Methods](<static/stretching methods.png>)
 
-<https://www.slideshare.net/ShvetikaKaul/physiology-of-stretching>
+[SlideShare Presentation](https://www.slideshare.net/ShvetikaKaul/physiology-of-stretching)
 
 ![Stretching Positions](static/stretching-positions.png)
 
