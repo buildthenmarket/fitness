@@ -3,7 +3,7 @@
 const config = {
   title: 'Fitness Book',
   tagline: 'Workout Overview',
-  favicon: 'img/favicon.ico',
+  favicon: 'favicon.ico',
 
   // Set the production url of your site here
   url: 'https://fitness-book.com',
@@ -44,7 +44,7 @@ const config = {
         title: 'Fitness Book',
         logo: {
           alt: 'Fitness Book Logo',
-          src: 'img/favicon.ico',
+          src: 'favicon.ico',
         },
         items: [
           {
@@ -52,26 +52,26 @@ const config = {
             position: 'left',
             label: '🏋️ Strength Training',
             items: [
-              { to: '/docs/lifting', label: 'Lifting' },
-              { to: '/docs/calisthenics', label: 'Calisthenics' },
-              { to: '/docs/minimal-equipment-workout', label: 'Minimal Equipment Workout' },
-              { to: '/docs/kettlebell', label: 'Kettlebell' },
-              { to: '/docs/medicine-ball', label: 'Medicine Ball' },
-              { to: '/docs/compound-moves', label: 'Compound Moves' },
+              { to: '/docs/lift/Lifting', label: 'Lifting' },
+              { to: '/docs/lift/Calisthenics', label: 'Calisthenics' },
+              { to: '/docs/lift/minimal-equipment-workout', label: 'Minimal Equipment Workout' },
+              { to: '/docs/lift/Kettlebell', label: 'Kettlebell' },
+              { to: '/docs/lift/medicine-ball', label: 'Medicine Ball' },
+              { to: '/docs/lift/compound-moves', label: 'Compound Moves' },
             ],
           },
           {
             type: 'dropdown',
             position: 'left',
-            label: 'Muscle Groups',
+            label: '🦵🏾 Muscle Groups',
             items: [
-              { to: '/docs/chest-pecs', label: 'Chest Pecs' },
-              { to: '/docs/legs', label: 'Legs' },
-              { to: '/docs/shoulders-neck-upper-back', label: 'Shoulders, Neck, Upper Back' },
-              { to: '/docs/lower-back-hips-glutes', label: 'Lower Back, Hips, Glutes' },
-              { to: '/docs/wrists', label: 'Wrists' },
-              { to: '/docs/arms', label: 'Arms' },
-              { to: '/docs/core', label: 'Core' },
+              { to: '/docs/muscle-groups/chest-pecs', label: 'Chest Pecs' },
+              { to: '/docs/muscle-groups/Legs', label: 'Legs' },
+              { to: '/docs/muscle-groups/shoulders-neck-upper-back', label: 'Shoulders, Neck, Upper Back' },
+              { to: '/docs/muscle-groups/lower-back-hips-glutes', label: 'Lower Back, Hips, Glutes' },
+              { to: '/docs/muscle-groups/Wrists', label: 'Wrists' },
+              { to: '/docs/muscle-groups/Arms', label: 'Arms' },
+              { to: '/docs/muscle-groups/Core', label: 'Core' },
             ],
           },
           {
@@ -79,19 +79,19 @@ const config = {
             position: 'left',
             label: '⚡ Cardio & Conditioning',
             items: [
-              { to: '/docs/hiit', label: 'HIIT' },
-              { to: '/docs/bboy', label: 'BBoy' },
-              { to: '/docs/cardio', label: 'Cardio' },
+              { to: '/docs/cardio/HIIT', label: 'HIIT' },
+              { to: '/docs/sports/BBoy', label: 'BBoy' },
+              { to: '/docs/cardio/Cardio', label: 'Cardio' },
             ],
           },
           {
             type: 'dropdown',
             position: 'left',
-            label: '🥊 Combat Sports',
+            label: '🏀 Sports',
             items: [
-              { to: '/docs/boxing', label: 'BOXING' },
-              { to: '/docs/mma', label: 'MMA' },
-              { to: '/docs/basketball', label: 'Basketball' },
+              { to: '/docs/sports/Basketball', label: 'Basketball' },
+              { to: '/docs/sports/MMA', label: 'MMA' },
+              { to: '/docs/sports/Boxing', label: 'BOXING' },
             ],
           },
           {
@@ -99,17 +99,10 @@ const config = {
             position: 'left',
             label: '🧘 Flexibility & Recovery',
             items: [
-              { to: '/docs/flexibility', label: 'Flexibility' },
-              { to: '/docs/stretching', label: 'STRETCHING' },
-              { to: '/docs/dance', label: 'Dance' },
+              { to: '/docs/yoga/Flexibility', label: 'Flexibility' },
+              { to: '/docs/yoga', label: 'Stretching' },
             ],
           },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'fitnessSidebar',
-          //   position: 'left',
-          //   label: 'Documentation',
-          // },
           {
             href: 'https://github.com/BUILD-then-MARKET/fitness',
             label: 'GitHub',

@@ -6,9 +6,9 @@
 
 [Beginner warm-ups](https://www.instagram.com/reel/DG1k1nOR8XN/)
 
-![alt text](<static/forearm1.png>)
+![alt text](/forearm1.png)
 
-![grip crush](<static/grip crush.png>)
+![grip crush](/grip crush.png)
 
 ## Grip Strength Tests
 

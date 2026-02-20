@@ -2,7 +2,7 @@
 
 Dumbbell-focused workouts you can do at home or anywhere with limited equipment.
 
-![full body workout](static/full%20body%20workout.png)
+![full body workout](/full%20body%20workout.png)
 
 ## Full Body Workouts
 

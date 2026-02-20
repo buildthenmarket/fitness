@@ -11,54 +11,57 @@ const CategoryList = [
   {
     title: '🏋️ Strength Training',
     description: 'Build muscle and strength with lifting, calisthenics, and equipment workouts',
-    firstDoc: 'Lifting',
-    docCount: 5,
+    firstDoc: 'docs/lift/Lifting',
+    docCount: 6,
+    image: '/lifting schedule.png',
   },
   {
     title: '👟 Muscle Groups',
     description: 'Target specific muscle groups with specialized exercises',
-    firstDoc: 'Chest Pecs',
-    docCount: 4,
+    firstDoc: 'docs/muscle-groups/chest-pecs',
+    docCount: 6,
+    image: '/muscle-groups.png',
   },
   {
     title: '⚡ Cardio & Conditioning',
     description: 'Boost endurance and athletic performance',
-    firstDoc: 'HIIT',
+    firstDoc: 'docs/cardio/HIIT',
     docCount: 2,
-  },
-  {
-    title: '🏀 Sports',
-    description: 'Learn breakdancing, boxing, MMA, and basketball training techniques',
-    firstDoc: 'BOXING',
-    docCount: 3,
+    image: '/core-exercises.png',
   },
   {
     title: '🧘 Flexibility & Stretching',
     description: 'Improve mobility, prevent injury, and enhance recovery',
-    firstDoc: 'Flexibility',
-    docCount: 3,
+    firstDoc: 'docs/yoga/Flexibility',
+    docCount: 2,
+    image: '/stretches.png',
+  },
+  {
+    title: '🏀 Sports',
+    description: 'Learn breakdancing, boxing, MMA, and basketball training techniques',
+    firstDoc: 'docs/sports/basketball',
+    docCount: 4,
+    image: '/shot-arc.png',
   },
 ];
 
-function CategoryCard({title, description, firstDoc, docCount}) {
+function CategoryCard({title, description, firstDoc, docCount, image}) {
   return (
     <div className={clsx('col col--6', styles.categoryCard)}>
-      <div className="card">
-        <div className="card__header">
-          <Heading as="h3">{title}</Heading>
+      <Link to={`/${firstDoc}`} className={styles.cardLink} style={{textDecoration: 'none', color: 'inherit'}}>
+        <div className="card" style={{cursor: 'pointer'}}>
+          <div className="card__header">
+            <Heading as="h3">{title}</Heading>
+          </div>
+          <div className="card__body">
+            {image && (
+              <img src={image} alt={title} style={{width: '100%', objectFit: 'cover', marginBottom: 12}} />
+            )}
+            <p>{description}</p>
+            <p className={styles.docCount}>{docCount} guides available</p>
+          </div>
         </div>
-        <div className="card__body">
-          <p>{description}</p>
-          <p className={styles.docCount}>{docCount} guides available</p>
-        </div>
-        <div className="card__footer">
-          <Link
-            className="button button--primary button--block"
-            to={`/${firstDoc}`}>
-            Explore →
-          </Link>
-        </div>
-      </div>
+      </Link>
     </div>
   );
 }
@@ -75,7 +78,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/Lifting">
+            to="docs/lift/Lifting">
             Start Training →
           </Link>
         </div>

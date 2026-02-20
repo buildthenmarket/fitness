@@ -1,6 +1,6 @@
 # Core & Abs
 
-![overview](static/Core-Exercises.png)
+![overview](/core-exercises.png)
 
 ## Calisthenics
 
@@ -88,6 +88,12 @@ Butterfly sit-ups remove your hips from the equation, fully loading your ab musc
 <details>
 <summary>Dumbbell core exercises</summary>
 
+### Side Bend
+
+- Obliques
+
+![obliques](/obliques.png)
+
 ### Torso Movements
 
 - Dumbbell Torso Twist
@@ -109,17 +115,11 @@ Hold a dumbbell with both hands, lean back slightly, and rotate side to side.
 
 Standing twists with a dumbbell, moving diagonally from high to low or low to high.
 
-### Side Bend
-
-- Obliques
-
-![obliques](static/image.png)
-
 ### Weighted Crunches
 
-![Overhead Crunch](static/image-1.png)
+![Overhead Crunch](/overhead-crunch.png)
 
-![dumbbell swings](static/image-2.png)
+![dumbbell swings](/dumbbell-swings.png)
 
 ### Stand-up Sit-up
 

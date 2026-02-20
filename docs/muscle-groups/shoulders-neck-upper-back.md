@@ -9,7 +9,7 @@
 - Rear delts
 - Rotator cuff
 
-![Shoulders](static/Dumbbell%20Shoulder%20Workout.png)
+![Shoulders](/Dumbbell%20Shoulder%20Workout.png)
 
 ## Stretches
 

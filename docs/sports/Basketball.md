@@ -1,4 +1,4 @@
-# HOOP
+# Basketball
 
 [strength training for bball](https://youtu.be/ZFkdXiM57Vg?si=BAhC6pxQsZt3Vr-Y)
 
@@ -6,7 +6,7 @@
 
 - Precision beats power, timing beats speed
 
-![shot arc](<static/Shot Arc.png>)
+![shot arc](/shot-arc.png)
 
 ## Handles / Dribbling
 
@@ -44,4 +44,4 @@
 
 ## Zone D
 
-![Zone D](<static/1-3-1 zone defense.jpg>)
+![Zone D](/1-3-1 zone defense.jpg>)

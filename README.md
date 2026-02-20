@@ -34,19 +34,13 @@ my-docusaurus/
     doc-1.md
     doc-2.md
     doc-3.md
-  website/
-    blog/
-      2016-3-11-oldest-post.md
-      2017-10-24-newest-post.md
     core/
     node_modules/
     pages/
     static/
-      css/
-      img/
     package.json
-    sidebars.json
-    siteConfig.js
+    sidebars.ts
+    siteConfig.ts
 ```
 
 # Editing Content
