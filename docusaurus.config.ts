@@ -2,7 +2,7 @@
 // @type {import('@docusaurus/types').Config}
 const config = {
   title: 'Fitness Book',
-  tagline: 'Your personal guide to fitness and wellness',
+  tagline: 'Workout Overview',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -12,8 +12,6 @@ const config = {
 
   // GitHub pages deployment config.
   organizationName: 'Build then Market Tech',
-  projectName: 'test-site',
-
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
@@ -28,85 +26,84 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.ts',
-          // editUrl: 'https://github.com/BUILD-then-MARKET/fitness/tree/main/',
-          // routeBasePath: '/',
-
+          sidebarPath: './sidebars.ts'
         },
-        blog: false, // Disabled
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
       }),
     ],
   ],
+  plugins: [['@easyops-cn/docusaurus-search-local', { hashed: true, indexDocs: true, indexBlog: false, indexPages: true, },],],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
+        title: 'Fitness Book',
         logo: {
           alt: 'Fitness Book Logo',
-          src: 'static/img/favicon.ico',
+          src: 'img/favicon.ico',
         },
         items: [
-            {
-              type: 'dropdown',
-              position: 'left',
-              label: '🏋️ Strength Training',
-              items: [
-                { to: '/docs/lifting', label: 'Lifting' },
-                { to: '/docs/calisthenics', label: 'Calisthenics' },
-                { to: '/docs/minimal-equipment-workout', label: 'Minimal Equipment Workout' },
-                { to: '/docs/kettlebell', label: 'Kettlebell' },
-                { to: '/docs/medicine-ball', label: 'Medicine Ball' },
-                { to: '/docs/compound-moves', label: 'Compound Moves' },
-              ],
-            },
-            {
-              type: 'dropdown',
-              position: 'left',
-              label: 'Muscle Groups',
-              items: [
-                { to: '/docs/chest-pecs', label: 'Chest Pecs' },
-                { to: '/docs/legs', label: 'Legs' },
-                { to: '/docs/shoulders-neck-upper-back', label: 'Shoulders, Neck, Upper Back' },
-                { to: '/docs/lower-back-hips-glutes', label: 'Lower Back, Hips, Glutes' },
-                { to: '/docs/wrists', label: 'Wrists' },
-                { to: '/docs/arms', label: 'Arms' },
-                { to: '/docs/core', label: 'Core' },
-              ],
-            },
-            {
-              type: 'dropdown',
-              position: 'left',
-              label: '⚡ Cardio & Conditioning',
-              items: [
-                { to: '/docs/hiit', label: 'HIIT' },
-                { to: '/docs/bboy', label: 'BBoy' },
-                { to: '/docs/cardio', label: 'Cardio' },
-              ],
-            },
-            {
-              type: 'dropdown',
-              position: 'left',
-              label: '🥊 Combat Sports',
-              items: [
-                { to: '/docs/boxing', label: 'BOXING' },
-                { to: '/docs/mma', label: 'MMA' },
-                { to: '/docs/basketball', label: 'Basketball' },
-              ],
-            },
-            {
-              type: 'dropdown',
-              position: 'left',
-              label: '🧘 Flexibility & Recovery',
-              items: [
-                { to: '/docs/flexibility', label: 'Flexibility' },
-                { to: '/docs/stretching', label: 'STRETCHING' },
-                { to: '/docs/dance', label: 'Dance' },
-              ],
-            },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: '🏋️ Strength Training',
+            items: [
+              { to: '/docs/lifting', label: 'Lifting' },
+              { to: '/docs/calisthenics', label: 'Calisthenics' },
+              { to: '/docs/minimal-equipment-workout', label: 'Minimal Equipment Workout' },
+              { to: '/docs/kettlebell', label: 'Kettlebell' },
+              { to: '/docs/medicine-ball', label: 'Medicine Ball' },
+              { to: '/docs/compound-moves', label: 'Compound Moves' },
+            ],
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: 'Muscle Groups',
+            items: [
+              { to: '/docs/chest-pecs', label: 'Chest Pecs' },
+              { to: '/docs/legs', label: 'Legs' },
+              { to: '/docs/shoulders-neck-upper-back', label: 'Shoulders, Neck, Upper Back' },
+              { to: '/docs/lower-back-hips-glutes', label: 'Lower Back, Hips, Glutes' },
+              { to: '/docs/wrists', label: 'Wrists' },
+              { to: '/docs/arms', label: 'Arms' },
+              { to: '/docs/core', label: 'Core' },
+            ],
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: '⚡ Cardio & Conditioning',
+            items: [
+              { to: '/docs/hiit', label: 'HIIT' },
+              { to: '/docs/bboy', label: 'BBoy' },
+              { to: '/docs/cardio', label: 'Cardio' },
+            ],
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: '🥊 Combat Sports',
+            items: [
+              { to: '/docs/boxing', label: 'BOXING' },
+              { to: '/docs/mma', label: 'MMA' },
+              { to: '/docs/basketball', label: 'Basketball' },
+            ],
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: '🧘 Flexibility & Recovery',
+            items: [
+              { to: '/docs/flexibility', label: 'Flexibility' },
+              { to: '/docs/stretching', label: 'STRETCHING' },
+              { to: '/docs/dance', label: 'Dance' },
+            ],
+          },
           // {
           //   type: 'docSidebar',
           //   sidebarId: 'fitnessSidebar',
@@ -120,7 +117,7 @@ const config = {
           },
         ],
       },
-      docs:{
+      docs: {
         sidebar: {
           hideable: true,
           autoCollapseCategories: true,
