@@ -15,7 +15,7 @@ const CategoryList = [
     docCount: 5,
   },
   {
-    title: '💪 Body Part Focus',
+    title: '👟 Muscle Groups',
     description: 'Target specific muscle groups with specialized exercises',
     firstDoc: 'Chest Pecs',
     docCount: 4,
@@ -27,13 +27,13 @@ const CategoryList = [
     docCount: 2,
   },
   {
-    title: '🥊 Combat Sports',
-    description: 'Learn boxing, MMA, and basketball training techniques',
+    title: '🏀 Sports',
+    description: 'Learn breakdancing, boxing, MMA, and basketball training techniques',
     firstDoc: 'BOXING',
     docCount: 3,
   },
   {
-    title: '🧘 Flexibility & Recovery',
+    title: '🧘 Flexibility & Stretching',
     description: 'Improve mobility, prevent injury, and enhance recovery',
     firstDoc: 'Flexibility',
     docCount: 3,

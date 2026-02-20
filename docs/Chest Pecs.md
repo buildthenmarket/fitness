@@ -1,24 +1,74 @@
-# teres major muscles:
+# Chest & Pecs
+
+## Calisthenics
+
+<details>
+<summary>Bodyweight chest exercises</summary>
+
+### Push-up Variations
+
+- standard push-up
+- wide grip push-up
+- diamond push-up
+- decline push-up (feet elevated)
+- incline push-up (hands elevated)
+- archer push-up
+- shoulder tap push-up
+- knee tap push-up
+- toe tap / toe reach push-up
+- crawl into squat
+- mike tyson push-up
+- clap push-up
+
+### Dips
+
+- parallel bar dips
+- bench dips
+- ring dips
+
+</details>
+
+## Dumbbell
+
+<details>
+<summary>Dumbbell chest exercises</summary>
 
 [dumbbell no bench](https://www.instagram.com/reel/C3VFOYRsJWl/)
 
-**Compound Exercises:**
+### Press Variations
 
-* **Pull-ups:** This classic exercise works your back muscles, including the teres major, lats, and biceps.
-* **Chin-ups:** Similar to pull-ups, but with a narrower grip, chin-ups place more emphasis on the biceps and teres major.
-* **Rows:** This versatile exercise can be done with dumbbells, barbells, or cables. Focus on pulling the weight towards your chest, squeezing your shoulder blades together.
+- Dumbbell Bench Press
+- Dumbbell Floor Press - [Floor chest press](https://x.com/DSecretsOfLife/status/1953427216932434309)
+- Incline Dumbbell Press
+- Decline Dumbbell Press
+- squeeze press (close grip with dumbbells touching)
+- [![close grip / inner](https://img.youtube.com/vi/k5a_L2WoZVk/0.jpg)](https://www.youtube.com/watch?v=shorts/k5a_L2WoZVk)
 
-**Isolation Exercises:**
+### Flyes
 
-* **Face Pulls:** Using a cable machine or resistance band, pull the handle towards your face, keeping your elbows high and squeezing your shoulder blades together.
-* **Bent-Over Rows:** This exercise targets the teres major, lats, and rhomboids. Keep your back flat and pull the weight towards your chest.
-* **Rear Delt Flyes:** This exercise primarily targets the rear delts, but also activates the teres major. Use dumbbells or a cable machine to perform this exercise.
+- Dumbbell Flyes (flat bench)
+- Incline Dumbbell Flyes
+- Floor Flyes
 
-**Remember:**
+</details>
 
-* **Proper Form:** Maintain proper form to avoid injuries and maximize muscle activation.
-* **Progressive Overload:** Gradually increase the weight or resistance to continue challenging your muscles.
-* **Rest and Recovery:** Allow your muscles to rest and recover between workouts.
-* **Listen to Your Body:** If you experience any pain, stop the exercise and consult a healthcare professional.
+## Gym / Weight Room
 
-By incorporating these exercises into your workout routine, you can effectively target and strengthen your teres major muscles.
+<details>
+<summary>Barbell and machine chest exercises</summary>
+
+### Barbell Press
+
+- Barbell Bench Press
+- Incline Barbell Press
+- Decline Barbell Press
+- Close-Grip Bench Press (also targets triceps)
+
+### Machines & Cables
+
+- Cable Flyes (high to low, low to high)
+- Pec Deck Machine
+- Chest Press Machine
+- Smith Machine Bench Press
+
+</details>

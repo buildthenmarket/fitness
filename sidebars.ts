@@ -1,6 +1,5 @@
-/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-  tutorialSidebar: [
+  fitnessSidebar: [
     {
       type: 'category',
       label: '🏋️ Strength Training',
@@ -10,16 +9,20 @@ const sidebars = {
         'Minimal Equipment Workout',
         'Kettlebell',
         'Medicine Ball',
+        'Compound Moves',
       ],
     },
     {
       type: 'category',
-      label: '💪 Body Part Focus',
+      label: 'Muscle Groups',
       items: [
         'Chest Pecs',
         'Legs',
         'Shoulders, Neck, Upper Back',
         'Lower Back, Hips, Glutes',
+        'Wrists',
+        'Arms',
+        'Core',
       ],
     },
     {
@@ -28,6 +31,7 @@ const sidebars = {
       items: [
         'HIIT',
         'BBoy',
+        'Cardio',
       ],
     },
     {
