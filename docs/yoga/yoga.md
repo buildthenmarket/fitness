@@ -23,3 +23,5 @@ Fascia is the thin casing of connective tissue that surrounds and holds every or
 The good news is, regular movement and [stretching](https://apple.news/A71GE3RzLQHGMeDpTj9vs4g "‌") can prevent the fascia from tightening up and getting “sticky”. This short, simple routine from Watson is a great place to start. Other ways to keep your fascia healthy are regular foam rolling and massage therapy.
 
 [Shoulder](https://www.instagram.com/reel/C-__p0qtATx/)
+[upper back shoulders neck](https://www.instagram.com/reels/DCL2IepunIh/)
+[box stretches](https://www.instagram.com/reels/DEIBj_optXX/)

@@ -5,21 +5,6 @@
 <details>
 <summary>Bodyweight chest exercises</summary>
 
-### Push-up Variations
-
-- standard push-up
-- wide grip push-up
-- diamond push-up
-- decline push-up (feet elevated)
-- incline push-up (hands elevated)
-- archer push-up
-- shoulder tap push-up
-- knee tap push-up
-- toe tap / toe reach push-up
-- crawl into squat
-- mike tyson push-up
-- clap push-up
-
 ### Dips
 
 - parallel bar dips

@@ -29,8 +29,6 @@ The triceps has three heads:
 
 ### Triceps
 
-- Diamond push-ups
-- Close-grip push-ups
 - Bench dips
 
 </details>
