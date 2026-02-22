@@ -1,6 +1,6 @@
 # Lifting
 
-![](/lifting%20schedule.png)
+![](/images/lifting-schedule.png)
 
 ## Tips
 
@@ -32,7 +32,7 @@ Lower
 
 starting with 20 reps of each exercise, followed by 19 of each, then 18, working your way down to a single rep of each.
 
-![push vs pull](/Push vs Pull.png)
+![push vs pull](/images/push-vs-pull.png)
 
 ## De load phase / cycle phase
 

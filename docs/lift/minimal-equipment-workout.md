@@ -2,7 +2,7 @@
 
 Dumbbell-focused workouts you can do at home or anywhere with limited equipment.
 
-![full body workout](/full%20body%20workout.png)
+![full body workout](/images/full-body-workout.png)
 
 ## Full Body Workouts
 
@@ -57,7 +57,7 @@ See the Dumbbell accordion in each body part page:
 
 - Obliques
 
-![obliques](/obliques.png)
+![obliques](/images/obliques.png)
 
 ### Torso Movements
 
@@ -82,9 +82,9 @@ Standing twists with a dumbbell, moving diagonally from high to low or low to hi
 
 ### Weighted Crunches
 
-![Overhead Crunch](/overhead-crunch.png)
+![Overhead Crunch](/images/overhead-crunch.png)
 
-![dumbbell swings](/dumbbell-swings.png)
+![dumbbell swings](/images/dumbbell-swings.png)
 
 ### Stand-up Sit-up
 

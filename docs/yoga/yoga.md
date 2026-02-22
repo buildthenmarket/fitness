@@ -1,12 +1,12 @@
 # Stretching / Yoga
 
-![Stretching](/stretches.png)
+![Stretching](/images/stretches.png)
 
-![Stretching Methods](/stretching-methods.png)
+![Stretching Methods](/images/stretching-methods.png)
 
 [SlideShare Presentation](https://www.slideshare.net/ShvetikaKaul/physiology-of-stretching)
 
-![Stretching Positions](/stretching-positions.png)
+![Stretching Positions](/images/stretching-positions.png)
 
 ## Middle Split Variations
 

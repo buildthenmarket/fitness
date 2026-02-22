@@ -6,7 +6,7 @@
 
 - Precision beats power, timing beats speed
 
-![shot arc](/shot-arc.png)
+![shot arc](/images/shot-arc.png)
 
 ## Handles / Dribbling
 
@@ -44,4 +44,4 @@
 
 ## Zone D
 
-![Zone D](/1-3-1 zone defense.jpg>)
+![Zone D](/images/1-3-1-zone-defense.jpg)

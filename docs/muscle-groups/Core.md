@@ -1,3 +1,3 @@
 # Core & Abs
 
-![overview](/core-exercises.png)
+![overview](/images/core-exercises.png)

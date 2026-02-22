@@ -5,6 +5,8 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
 
+
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './index.module.css';
 
 const CategoryList = [
@@ -13,39 +15,40 @@ const CategoryList = [
     description: 'Build muscle and strength with lifting, calisthenics, and equipment workouts',
     firstDoc: 'docs/lift/Lifting',
     docCount: 6,
-    image: '/lifting schedule.png',
+    image: '/images/lifting-schedule.png',
   },
   {
     title: '👟 Muscle Groups',
     description: 'Target specific muscle groups with specialized exercises',
     firstDoc: 'docs/muscle-groups/chest-pecs',
     docCount: 6,
-    image: '/muscle-groups.png',
+    image: '/images/muscle-groups.png',
   },
   {
     title: '⚡ Cardio & Conditioning',
     description: 'Boost endurance and athletic performance',
     firstDoc: 'docs/cardio/HIIT',
     docCount: 2,
-    image: '/core-exercises.png',
+    image: '/images/core-exercises.png',
   },
   {
     title: '🧘 Flexibility & Stretching',
     description: 'Improve mobility, prevent injury, and enhance recovery',
     firstDoc: 'docs/yoga/Flexibility',
     docCount: 2,
-    image: '/stretches.png',
+    image: '/images/stretches.png',
   },
   {
     title: '🏀 Sports',
     description: 'Learn breakdancing, boxing, MMA, and basketball training techniques',
     firstDoc: 'docs/sports/basketball',
     docCount: 4,
-    image: '/shot-arc.png',
+    image: '/images/shot-arc.png',
   },
 ];
 
 function CategoryCard({title, description, firstDoc, docCount, image}) {
+  const imageUrl = useBaseUrl(image);
   return (
     <div className={clsx('col col--6', styles.categoryCard)}>
       <Link to={`/${firstDoc}`} className={styles.cardLink} style={{textDecoration: 'none', color: 'inherit'}}>
@@ -55,7 +58,7 @@ function CategoryCard({title, description, firstDoc, docCount, image}) {
           </div>
           <div className="card__body">
             {image && (
-              <img src={image} alt={title} style={{width: '100%', objectFit: 'cover', marginBottom: 12}} />
+              <img src={imageUrl} alt={title} style={{width: '100%', objectFit: 'cover', marginBottom: 12}} />
             )}
             <p>{description}</p>
             <p className={styles.docCount}>{docCount} guides available</p>
