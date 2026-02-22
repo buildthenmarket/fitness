@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkfitness_book=globalThis.webpackChunkfitness_book||[]).push([[921],{1597(s){s.exports=JSON.parse('{"name":"@easyops-cn/docusaurus-search-local","id":"default"}')}}]);
