@@ -1,18 +1,5 @@
 # Chest & Pecs
 
-## Calisthenics
-
-<details>
-<summary>Bodyweight chest exercises</summary>
-
-### Dips
-
-- parallel bar dips
-- bench dips
-- ring dips
-
-</details>
-
 ## Dumbbell
 
 <details>
