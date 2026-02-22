@@ -6,12 +6,11 @@ const config = {
   favicon: 'favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://fitness-book.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/',
-
-  // GitHub pages deployment config.
-  organizationName: 'Build then Market Tech',
+  url: 'https://buildthenmarket.github.io',
+  organizationName: 'buildthenmarket',
+  projectName: 'fitness',
+  baseUrl: '/fitness/',
+  deploymentBranch: 'gh-pages',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
