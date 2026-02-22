@@ -6,7 +6,7 @@ const config = {
   favicon: 'favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://buildthenmarket.github.io',
+  url: 'fitness.savageceos.com',
   organizationName: 'buildthenmarket',
   projectName: 'fitness',
   baseUrl: '/',
