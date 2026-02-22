@@ -9,7 +9,7 @@ const config = {
   url: 'https://fitness.savageceos.com',
   organizationName: 'buildthenmarket',
   projectName: 'fitness',
-  baseUrl: '/',
+  baseUrl: '/fitness/',
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
