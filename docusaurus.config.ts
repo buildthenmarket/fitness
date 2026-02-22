@@ -9,7 +9,7 @@ const config = {
   url: 'https://buildthenmarket.github.io',
   organizationName: 'buildthenmarket',
   projectName: 'fitness',
-  baseUrl: '/fitness/',
+  baseUrl: '/',
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
