@@ -53,11 +53,29 @@ const config = {
             label: '🏋️ Strength Training',
             items: [
               { to: '/docs/lift/Lifting', label: 'Lifting' },
-              { to: '/docs/lift/Calisthenics', label: 'Calisthenics' },
+              { to: '/docs/calisthenics', label: 'Calisthenics' },
               { to: '/docs/lift/minimal-equipment-workout', label: 'Minimal Equipment Workout' },
               { to: '/docs/lift/Kettlebell', label: 'Kettlebell' },
               { to: '/docs/lift/medicine-ball', label: 'Medicine Ball' },
               { to: '/docs/lift/compound-moves', label: 'Compound Moves' },
+            ],
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: '⚡ Cardio & Conditioning',
+            items: [
+              { to: '/docs/cardio/HIIT', label: 'HIIT' },
+              { to: '/docs/cardio', label: 'Cardio' },
+            ],
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: '🧘 Flexibility & Recovery',
+            items: [
+              { to: '/docs/yoga/Flexibility', label: 'Flexibility' },
+              { to: '/docs/yoga', label: 'Stretching' },
             ],
           },
           {
@@ -77,30 +95,12 @@ const config = {
           {
             type: 'dropdown',
             position: 'left',
-            label: '⚡ Cardio & Conditioning',
-            items: [
-              { to: '/docs/cardio/HIIT', label: 'HIIT' },
-              { to: '/docs/sports/BBoy', label: 'BBoy' },
-              { to: '/docs/cardio/Cardio', label: 'Cardio' },
-            ],
-          },
-          {
-            type: 'dropdown',
-            position: 'left',
             label: '🏀 Sports',
             items: [
+              { to: '/docs/sports/Breakdance', label: 'BBoy' },
               { to: '/docs/sports/Basketball', label: 'Basketball' },
               { to: '/docs/sports/MMA', label: 'MMA' },
               { to: '/docs/sports/Boxing', label: 'BOXING' },
-            ],
-          },
-          {
-            type: 'dropdown',
-            position: 'left',
-            label: '🧘 Flexibility & Recovery',
-            items: [
-              { to: '/docs/yoga/Flexibility', label: 'Flexibility' },
-              { to: '/docs/yoga', label: 'Stretching' },
             ],
           },
           {
