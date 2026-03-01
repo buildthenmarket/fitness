@@ -1,5 +1,7 @@
 # Basketball
 
+![court diagram](static/basketball-court.png)
+
 [strength training for bball](https://youtu.be/ZFkdXiM57Vg?si=BAhC6pxQsZt3Vr-Y)
 
 ## Shot
