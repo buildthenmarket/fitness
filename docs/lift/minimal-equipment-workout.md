@@ -6,6 +6,7 @@ Dumbbell-focused workouts you can do at home or anywhere with limited equipment.
 
 ## Full Body Workouts
 
+- [dumbbell workout](https://x.com/Thought_Scope/status/1989302568192004430)
 - [HIIT](https://www.instagram.com/reel/C5Lg21YLpXW/)
 - [3 moves](https://www.instagram.com/reel/C5je2ZgSWeb/)
 
@@ -13,17 +14,22 @@ Dumbbell-focused workouts you can do at home or anywhere with limited equipment.
 
 See the Dumbbell accordion in each body part page:
 
-- [Chest & Pecs](Chest%20Pecs.md) - Floor press, dumbbell flyes
-- [Shoulders, Neck & Upper Back](Shoulders,%20Neck,%20Upper%20Back.md) - Arnold press, lateral raises, rows
 - [Arms](#arms) - Curls, tricep extensions
 - [Core](#core) - Russian twists, farmer's walk
 - [Legs](Legs.md) - Goblet squats, lunges
 - [Wrists](Wrists.md) - Farmer carries, wrist curls
+- [Chest & Pecs](Chest%20Pecs.md) - Floor press, dumbbell flyes
+
+## [Shoulders, Neck & Upper Back](Shoulders,%20Neck,%20Upper%20Back.md) - Arnold press, lateral raises, rows
+
+[shoulder dumbbell](https://x.com/FitnessGuide0/status/1990451513492378099)
 
 ## Arms
 
 <details>
 <summary>Dumbbell arm exercises</summary>
+
+[chest renegade pushups](https://x.com/FitnessGuide0/status/2018598581436047412)
 
 ### Biceps Curls
 
