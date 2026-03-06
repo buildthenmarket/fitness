@@ -1,1 +1,0 @@
-(globalThis.webpackChunkfitness_book=globalThis.webpackChunkfitness_book||[]).push([[741],{5741(){}}]);
