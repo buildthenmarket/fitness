@@ -2,13 +2,13 @@
 
 - Russian twists, farmer's walk
 
-![Dumbbell Core](../../static/dumbbell-abs-exercises.png)
+![Dumbbell Core](/dumbbell-abs-exercises.png)
 
 ## Side Bend
 
 - Obliques
 
-![obliques](/images/obliques.png)
+![obliques](/obliques.png)
 
 ## Torso Movements
 
@@ -33,9 +33,9 @@ Standing twists with a dumbbell, moving diagonally from high to low or low to hi
 
 ## Weighted Crunches
 
-![Overhead Crunch](/images/overhead-crunch.png)
+![Overhead Crunch](/overhead-crunch.png)
 
-![dumbbell swings](/images/dumbbell-swings.png)
+![dumbbell swings](/dumbbell-swings.png)
 
 ## Stand-up Sit-up
 

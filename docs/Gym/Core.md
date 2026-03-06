@@ -2,7 +2,7 @@
 
 ## Calisthenics
 
-![overview](/images/core-exercises.png)
+![overview](/core-exercises.png)
 
 ## Minimal Equipment Core Workout
 
