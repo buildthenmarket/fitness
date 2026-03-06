@@ -1,4 +1,4 @@
-# Gym / Weight Room: Chest & Pecs
+# Chest
 
 ## Barbell and machine chest exercises
 

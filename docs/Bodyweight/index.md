@@ -1,4 +1,4 @@
-# Calisthenics
+# Bodyweight (Calisthenics)
 
 Bodyweight training using minimal or no equipment.
 

@@ -1,29 +1,27 @@
-# Barbell and machine leg exercises
+# Legs
 
-## Gym / Weight Room
-
-### Barbell Squats
+## Barbell Squats
 
 - Back Squat
 - Front Squat
 - Box Squat
 - Pause Squat
 
-### Leg Press
+## Leg Press
 
 - Standard leg press
 - Single leg press
 - Narrow stance (quad focus)
 - Wide stance (glute/adductor focus)
 
-### Machines
+## Machines
 
 - Leg Extension (quads)
 - Leg Curl (hamstrings)
 - Hack Squat Machine
 - Smith Machine Squats
 
-### Barbell Lunges
+## Barbell Lunges
 
 - Walking lunges
 - Reverse lunges

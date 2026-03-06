@@ -1,4 +1,4 @@
-# Bodyweight (Calisthenics) Wrists / grip exercises
+# Forearms
 
 - Dead hangs, towel chin-ups
 

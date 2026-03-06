@@ -1,4 +1,4 @@
-# Bodyweight (Calisthenics) Chest Pecs exercises
+# Chest
 
 - Push-ups, dips
 

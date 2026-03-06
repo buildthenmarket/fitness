@@ -1,4 +1,4 @@
-# Bodyweight (Calisthenics) Arm exercises
+# Arm
 
 - Chin-ups, diamond push-ups, dips
 

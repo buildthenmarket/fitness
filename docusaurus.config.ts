@@ -51,12 +51,9 @@ const config = {
             position: 'left',
             label: '🏋️ Strength Training',
             items: [
-              { to: '/docs/lift/Lifting', label: 'Lifting' },
-              { to: '/docs/calisthenics', label: 'Calisthenics' },
-              { to: '/docs/lift/minimal-equipment-workout', label: 'Minimal Equipment Workout' },
-              { to: '/docs/lift/Kettlebell', label: 'Kettlebell' },
-              { to: '/docs/lift/medicine-ball', label: 'Medicine Ball' },
-              { to: '/docs/lift/compound-moves', label: 'Compound Moves' },
+              { to: '/docs/Bodyweight', label: 'Bodyweight (Calisthenics)' },
+              { to: '/docs/Dumbbells', label: 'Dumbbells' },
+              { to: '/docs/Gym/Chest', label: 'Gym' },
             ],
           },
           {
@@ -64,8 +61,8 @@ const config = {
             position: 'left',
             label: '⚡ Cardio & Conditioning',
             items: [
-              { to: '/docs/cardio/HIIT', label: 'HIIT' },
-              { to: '/docs/cardio', label: 'Cardio' },
+              { to: '/docs/Cardio/HIIT', label: 'HIIT' },
+              { to: '/docs/Cardio', label: 'Cardio' },
             ],
           },
           {
@@ -80,26 +77,12 @@ const config = {
           {
             type: 'dropdown',
             position: 'left',
-            label: '🦵🏾 Muscle Groups',
-            items: [
-              { to: '/docs/muscle-groups/chest-pecs', label: 'Chest Pecs' },
-              { to: '/docs/muscle-groups/Legs', label: 'Legs' },
-              { to: '/docs/muscle-groups/shoulders-neck-upper-back', label: 'Shoulders, Neck, Upper Back' },
-              { to: '/docs/muscle-groups/lower-back-hips-glutes', label: 'Lower Back, Hips, Glutes' },
-              { to: '/docs/muscle-groups/Wrists', label: 'Wrists' },
-              { to: '/docs/muscle-groups/Arms', label: 'Arms' },
-              { to: '/docs/muscle-groups/Core', label: 'Core' },
-            ],
-          },
-          {
-            type: 'dropdown',
-            position: 'left',
             label: '🏀 Sports',
             items: [
-              { to: '/docs/sports/Breakdance', label: 'BBoy' },
-              { to: '/docs/sports/Basketball', label: 'Basketball' },
-              { to: '/docs/sports/MMA', label: 'MMA' },
-              { to: '/docs/sports/boxing', label: 'BOXING' },
+              { to: '/docs/Sports/Breakdance', label: 'BBoy' },
+              { to: '/docs/Sports/Basketball', label: 'Basketball' },
+              { to: '/docs/Sports/MMA', label: 'MMA' },
+              { to: '/docs/Sports/Boxing', label: 'BOXING' },
             ],
           },
           {

@@ -1,4 +1,4 @@
-# Shoulders, Neck & Upper Back
+# Shoulders
 
 ## Muscle Groups
 

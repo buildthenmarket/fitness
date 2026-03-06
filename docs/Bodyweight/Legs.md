@@ -1,4 +1,4 @@
-# Bodyweight (Calisthenics) leg exercises
+# Legs
 
 - Squats, lunges, pistol squats
 

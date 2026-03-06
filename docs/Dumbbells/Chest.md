@@ -1,4 +1,4 @@
-# Dumbbell Chest & Pecs exercises
+# Chest
 
 - Floor press, dumbbell flyes
 

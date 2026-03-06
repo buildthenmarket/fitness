@@ -1,4 +1,4 @@
-# Minimal Equipment Workout
+# Dumbbell Workout
 
 Dumbbell-focused workouts you can do at home or anywhere with limited equipment.
 

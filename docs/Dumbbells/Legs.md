@@ -1,4 +1,4 @@
-# Dumbbell leg exercises
+# Legs
 
 - Goblet squats, lunges
 

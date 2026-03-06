@@ -1,3 +1,3 @@
-# Shoulders, Neck & Upper Back
+# Shoulders
 
 - Pull-ups, inverted rows, pike push-ups

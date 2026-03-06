@@ -1,4 +1,4 @@
-# Dumbbell arm exercises
+# Arms
 
 - Curls, tricep extensions
 

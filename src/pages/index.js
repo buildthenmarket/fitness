@@ -11,37 +11,44 @@ import styles from './index.module.css';
 
 const CategoryList = [
   {
-    title: '🏋️ Strength Training',
-    description: 'Build muscle and strength with lifting, calisthenics, and equipment workouts',
-    firstDoc: 'docs/lift/Lifting',
-    docCount: 6,
+    title: '🤸 Bodyweight (Calisthenics)',
+    description: 'Train with minimal equipment using calisthenics and bodyweight progressions',
+    firstDoc: 'docs/Bodyweight',
+    docCount: 8,
     image: '/images/lifting-schedule.png',
   },
   {
-    title: '👟 Muscle Groups',
-    description: 'Target specific muscle groups with specialized exercises',
-    firstDoc: 'docs/muscle-groups/chest-pecs',
-    docCount: 6,
+    title: '🏋️ Dumbbells',
+    description: 'Strength training with dumbbells, compound moves, and minimal-equipment sessions',
+    firstDoc: 'docs/Dumbbells',
+    docCount: 11,
+    image: '/images/muscle-groups.png',
+  },
+  {
+    title: '🏛️ Gym',
+    description: 'Gym-focused training for chest, shoulders, core, legs, and accessory muscle groups',
+    firstDoc: 'docs/Gym/Chest',
+    docCount: 7,
     image: '/images/muscle-groups.png',
   },
   {
     title: '⚡ Cardio & Conditioning',
     description: 'Boost endurance and athletic performance',
-    firstDoc: 'docs/cardio/HIIT',
-    docCount: 2,
+    firstDoc: 'docs/Cardio/HIIT',
+    docCount: 4,
     image: '/images/core-exercises.png',
   },
   {
     title: '🧘 Flexibility & Stretching',
     description: 'Improve mobility, prevent injury, and enhance recovery',
     firstDoc: 'docs/Stretching/Flexibility',
-    docCount: 2,
+    docCount: 3,
     image: '/images/stretches.png',
   },
   {
     title: '🏀 Sports',
     description: 'Learn breakdancing, boxing, MMA, and basketball training techniques',
-    firstDoc: 'docs/sports/Basketball',
+    firstDoc: 'docs/Sports/Basketball',
     docCount: 4,
     image: '/images/shot-arc.png',
   },
@@ -50,7 +57,7 @@ const CategoryList = [
 function CategoryCard({title, description, firstDoc, docCount, image}) {
   const imageUrl = useBaseUrl(image);
   return (
-    <div className={clsx('col col--6', styles.categoryCard)}>
+    <div className={clsx('col col--3', styles.categoryCard)}>
       <Link to={`/${firstDoc}`} className={styles.cardLink} style={{textDecoration: 'none', color: 'inherit'}}>
         <div className="card" style={{cursor: 'pointer'}}>
           <div className="card__header">
@@ -81,7 +88,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="docs/lift/Lifting">
+            to="/docs/Bodyweight">
             Start Training →
           </Link>
         </div>

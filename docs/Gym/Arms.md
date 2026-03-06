@@ -1,4 +1,4 @@
-# Gym / Weight Room: Arms
+# Arms
 
 ## Biceps
 
