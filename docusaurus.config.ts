@@ -73,8 +73,8 @@ const config = {
             position: 'left',
             label: '🧘 Flexibility & Recovery',
             items: [
-              { to: '/docs/yoga/Flexibility', label: 'Flexibility' },
-              { to: '/docs/yoga', label: 'Stretching' },
+              { to: '/docs/Stretching/Flexibility', label: 'Flexibility' },
+              { to: '/docs/Stretching/Recovery', label: 'Recovery' },
             ],
           },
           {
@@ -99,7 +99,7 @@ const config = {
               { to: '/docs/sports/Breakdance', label: 'BBoy' },
               { to: '/docs/sports/Basketball', label: 'Basketball' },
               { to: '/docs/sports/MMA', label: 'MMA' },
-              { to: '/docs/sports/Boxing', label: 'BOXING' },
+              { to: '/docs/sports/boxing', label: 'BOXING' },
             ],
           },
           {

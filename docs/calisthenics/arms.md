@@ -1,5 +1,7 @@
 # Arms
 
+- Chin-ups, diamond push-ups, dips
+
 <details>
 <summary>Bodyweight arm exercises</summary>
 

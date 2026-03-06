@@ -1,0 +1,3 @@
+# Legs
+
+- Goblet squats, lunges

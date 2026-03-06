@@ -1,5 +1,7 @@
 # Chest Pecs
 
+- Push-ups, dips
+
 <details>
 <summary>Bodyweight chest exercises</summary>
 

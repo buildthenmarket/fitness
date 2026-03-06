@@ -1,10 +1,13 @@
+# Core
+
 [standing abs workout](https://www.instagram.com/reels/DI3rCjksiYf/)
-# Calisthenics
+
+- Planks, leg raises, hollow body
 
 <details>
 <summary>Bodyweight core exercises</summary>
 
-### Floor Exercises
+## Floor Exercises
 
 - boxer kick
 - V in-and-outs
@@ -21,7 +24,7 @@
 - ankle weights for added resistance
 - (boxer kicks) partner throws legs
 
-### Crunches
+## Crunches
 
 - standard crunch
 - oblique crunch

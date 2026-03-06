@@ -6,17 +6,6 @@ Bodyweight training using minimal or no equipment.
 
 > 60 Seconds of Exercise Erases 14 Minutes of Sitting
 
-## Body Part Exercises
-
-See the Calisthenics accordion in each body part page:
-
-- [Chest & Pecs](Chest%20Pecs.md) - Push-ups, dips
-- [Shoulders, Neck & Upper Back](Shoulders,%20Neck,%20Upper%20Back.md) - Pull-ups, inverted rows, pike push-ups
-- [Arms](Arms.md) - Chin-ups, diamond push-ups, dips
-- [Core](Core.md) - Planks, leg raises, hollow body
-- [Legs](Legs.md) - Squats, lunges, pistol squats
-- [Wrists](Wrists.md) - Dead hangs, towel chin-ups
-
 ---
 
 ## Isometric Exercises

@@ -34,14 +34,14 @@ const CategoryList = [
   {
     title: '🧘 Flexibility & Stretching',
     description: 'Improve mobility, prevent injury, and enhance recovery',
-    firstDoc: 'docs/yoga/Flexibility',
+    firstDoc: 'docs/Stretching/Flexibility',
     docCount: 2,
     image: '/images/stretches.png',
   },
   {
     title: '🏀 Sports',
     description: 'Learn breakdancing, boxing, MMA, and basketball training techniques',
-    firstDoc: 'docs/sports/basketball',
+    firstDoc: 'docs/sports/Basketball',
     docCount: 4,
     image: '/images/shot-arc.png',
   },
