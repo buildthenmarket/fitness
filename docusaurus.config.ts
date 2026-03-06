@@ -68,10 +68,9 @@ const config = {
           {
             type: 'dropdown',
             position: 'left',
-            label: '🧘 Flexibility & Recovery',
+            label: '🧘 Stretching',
             items: [
-              { to: '/docs/Stretching/Flexibility', label: 'Flexibility' },
-              { to: '/docs/Stretching/Recovery', label: 'Recovery' },
+              { to: '/docs/Stretching/', label: 'Stretching' },
             ],
           },
           {

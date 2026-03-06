@@ -17,6 +17,15 @@
 - mike tyson push-up
 - clap push-up
 
+### Scapular Push-ups
+
+- Start in a push-up position
+- Lower your body towards the ground, then push back up, focusing on squeezing your shoulder blades together at the top
+
+### Pike Push-ups
+
+Targets shoulders by placing body in inverted V position.
+
 ## Level 2
 
 [](https://www.facebook.com/reel/990338083007755)
