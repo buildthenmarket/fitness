@@ -1,8 +1,6 @@
-# Calisthenics
-
 ## Basic Technique
 
-[![](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=shorts/7FvYSwf40bc)
+[![basic push-up technique](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=shorts/7FvYSwf40bc)
 
 ## Push-up Variations
 

@@ -1,9 +1,6 @@
-# Chest Pecs
+# Bodyweight (Calisthenics) Chest Pecs exercises
 
 - Push-ups, dips
-
-<details>
-<summary>Bodyweight chest exercises</summary>
 
 ## Handstands
 
@@ -16,5 +13,3 @@
 - parallel bar dips
 - bench dips
 - ring dips
-
-</details>

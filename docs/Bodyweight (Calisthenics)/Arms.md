@@ -1,9 +1,6 @@
-# Arms
+# Bodyweight (Calisthenics) Arm exercises
 
 - Chin-ups, diamond push-ups, dips
-
-<details>
-<summary>Bodyweight arm exercises</summary>
 
 ## Biceps
 
@@ -13,5 +10,3 @@
 ## Triceps
 
 - Bench dips
-
-</details>

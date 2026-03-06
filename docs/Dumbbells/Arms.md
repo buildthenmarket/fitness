@@ -1,15 +1,10 @@
-# Arms
+# Dumbbell arm exercises
 
 - Curls, tricep extensions
 
-## Dumbbell arm exercises
-
-<details>
-<summary>Dumbbell arm exercises</summary>
-
 [chest renegade pushups](https://x.com/FitnessGuide0/status/2018598581436047412)
 
-### Biceps Curls
+## Biceps Curls
 
 - Standard biceps curl
 - [Zottman curl](https://www.youtube.com/shorts/uYWqEEaEj6A) (palms up on curl, rotate to palms down on lower)
@@ -19,9 +14,9 @@
 - Concentration curl
 - Preacher curl with dumbbell
 
-### Triceps
+## Triceps
 
-#### Overhead Triceps Extension
+### Overhead Triceps Extension
 
 [![Overhead triceps extension](https://img.youtube.com/vi/BrVvtti-gkU/0.jpg)](https://www.youtube.com/watch?v=shorts/BrVvtti-gkU)
 
@@ -29,28 +24,3 @@
 - Two arm overhead extension
 - Dumbbell skull crushers
 - Tricep kickbacks
-
-</details>
-
-
-## Gym / Weight Room
-
-<details>
-<summary>Barbell and cable arm exercises</summary>
-
-### Biceps
-
-- Barbell curl
-- EZ bar curl
-- Preacher curl (barbell or EZ bar)
-- Cable curl
-- Cable hammer curl (rope attachment)
-
-### Triceps
-
-- Close-grip bench press
-- Skull crushers (EZ bar)
-- Cable pushdowns (straight bar)
-- Cable pushdowns (rope attachment)
-- Overhead cable extension
-</details>

@@ -1,13 +1,8 @@
-# Wrists
+# Bodyweight (Calisthenics) Wrists / grip exercises
 
 - Dead hangs, towel chin-ups
 
-## Calisthenics
-
-<details>
-<summary>Bodyweight grip exercises</summary>
-
-### Dead Hang
+## Dead Hang
 
 Simply hang from a pull-up bar with arms fully extended. Great for grip endurance and shoulder health.
 
@@ -22,5 +17,3 @@ Progress from knees to full push-ups on fingertips.
 ### Grip Crush
 
 Static squeeze exercises using tennis balls or grip trainers.
-
-</details>

@@ -1,11 +1,8 @@
-# Core
+# BodyweightCore exercises
 
 [standing abs workout](https://www.instagram.com/reels/DI3rCjksiYf/)
 
 - Planks, leg raises, hollow body
-
-<details>
-<summary>Bodyweight core exercises</summary>
 
 ## Floor Exercises
 
@@ -80,5 +77,3 @@ Butterfly sit-ups remove your hips from the equation, fully loading your ab musc
 ### Table Exercises
 
 - chin-ups (table rows)
-
-</details>
