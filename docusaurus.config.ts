@@ -53,7 +53,7 @@ const config = {
             items: [
               { to: '/docs/Bodyweight', label: 'Bodyweight (Calisthenics)' },
               { to: '/docs/Dumbbells', label: 'Dumbbells' },
-              { to: '/docs/Gym/Chest', label: 'Gym' },
+              { to: '/docs/Gym', label: 'Gym' },
             ],
           },
           {
