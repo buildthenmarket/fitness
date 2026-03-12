@@ -41,7 +41,7 @@ const CategoryList = [
   {
     title: '🧘 Flexibility & Stretching',
     description: 'Improve mobility, prevent injury, and enhance recovery',
-    firstDoc: 'docs/Stretching/Flexibility',
+    firstDoc: 'docs/Stretching',
     docCount: 3,
     image: '/stretches.png',
   },
