@@ -2,7 +2,7 @@
 
 [IPad App](https://apps.apple.com/us/app/good-drills/id6447601365)
 
-![court diagram](static/basketball-court.png)
+![court diagram](/basketball-court.png)
 
 [strength training for bball](https://youtu.be/ZFkdXiM57Vg?si=BAhC6pxQsZt3Vr-Y)
 
