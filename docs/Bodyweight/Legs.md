@@ -1,5 +1,9 @@
 # Legs
 
+## Pliometrics
+
+- [IG](https://www.instagram.com/reels/C5UEUoXvo41/)
+
 - Squats, lunges, pistol squats
 
 ## Squat Variations

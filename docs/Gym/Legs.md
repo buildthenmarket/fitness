@@ -1,5 +1,7 @@
 # Legs
 
+- [IG](https://www.instagram.com/reels/DBu0hRPy_Wg/)
+
 ## Barbell Squats
 
 - Back Squat

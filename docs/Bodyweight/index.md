@@ -2,6 +2,8 @@
 
 Bodyweight training using minimal or no equipment.
 
+- [IG Example - Daily 50](https://www.instagram.com/reels/DOo6Y2UDAz7/)
+
 ## Sedentary Lifestyle
 
 > 60 Seconds of Exercise Erases 14 Minutes of Sitting

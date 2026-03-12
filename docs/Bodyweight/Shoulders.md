@@ -2,6 +2,10 @@
 
 - Pull-ups, inverted rows, pike push-ups
 
+## Scapula planks
+
+- [IG](https://www.instagram.com/reels/DGvyigUS3lR/)
+
 ## Pull-ups
 
 Pull-ups are a great compound exercise that works the rhomboids, along with other back muscles.

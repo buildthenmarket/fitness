@@ -1,5 +1,8 @@
 # Gait
 
+- [IG](https://www.instagram.com/reels/DL6HC5lR8rI/)
+- [IG](https://www.instagram.com/reels/DIeYzIWPHOq/)
+
 ## Assessing Gait Imbalance
 
 If you feel an imbalance in your gait, it's important to assess the issue properly. You can start by observing your walking pattern and noting any specific difficulties, such as dragging your feet, feeling off balance, or experiencing irregular steps 
