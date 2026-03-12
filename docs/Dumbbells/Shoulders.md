@@ -1,5 +1,12 @@
 ## Dumbbell Shoulders and back exercises
 
+[**IG video**](https://www.instagram.com/reels/DEe1OE-TZkg/)
+
+- pass over
+- swing
+
+---
+
 - Arnold press, lateral raises, rows
 - FLYs & Rows
 
@@ -71,3 +78,8 @@
 - **Focus on Squeezing Your Shoulder Blades:** This is the key to activating your rhomboids
 - **Maintain Proper Form:** Avoid rounding your back, as this can lead to injury
 - **Start with Lighter Weights or Easier Variations:** Gradually increase the difficulty as you get stronger
+
+
+## Flow Moves
+
+[**IG Video**](https://www.instagram.com/reels/DD0ijhgsdNF/)
