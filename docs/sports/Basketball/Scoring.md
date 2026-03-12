@@ -14,6 +14,9 @@
 
 ---
 
-[Pinoy Step](https://www.youtube.com/shorts/HM0MqQbLJbw)
+## Layups
+
+[YouTube - Pinoy Step](https://www.youtube.com/shorts/HM0MqQbLJbw)
+[7 Different Euro Variations - IG](https://www.instagram.com/reels/C4CsdTYyNat/)
 
 ## fouls and contact

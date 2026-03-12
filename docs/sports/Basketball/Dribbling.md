@@ -1,3 +1,10 @@
+## Loose Fingers
+
+- [IG](https://www.instagram.com/reels/C5lU-5WO0HB/)
+
+## Kyrie - 'Feint'
+
+- [IG](https://www.instagram.com/reels/C5ZGNwKPCv1/)
 
 ## Handles
 
@@ -14,4 +21,9 @@
 
 ### Misdirection dribble move
 
-[Misdirection](https://www.instagram.com/reel/DGTeZfsOUda/)
+- [Misdirection](https://www.instagram.com/reel/DGTeZfsOUda/)
+- [IG - Misdirection](https://www.instagram.com/reels/C7Elh5ZMsws/)
+
+## Drills
+
+- [IG](https://www.instagram.com/reels/C8Um2V7MTa8/)
