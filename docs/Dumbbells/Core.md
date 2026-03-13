@@ -11,7 +11,7 @@
 
 ## Side Bend
 
-- Obliques
+- [Obliques](https://www.instagram.com/reels/C5f4_L3rw2e/)
 
 ![obliques](/obliques.png)
 

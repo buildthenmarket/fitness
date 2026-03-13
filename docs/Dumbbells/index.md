@@ -6,6 +6,7 @@ Dumbbell-focused workouts you can do at home or anywhere with limited equipment.
 
 ## Full Body Workouts
 
+- [IG - Easy](https://www.instagram.com/reels/C5RdOx8vk0U/)
 - [dumbbell workout](https://x.com/Thought_Scope/status/1989302568192004430)
 - [IG - Full body routine](https://www.instagram.com/p/C4sgFrtgwAg/?img_index=1)
 - [HIIT](https://www.instagram.com/reel/C5Lg21YLpXW/)

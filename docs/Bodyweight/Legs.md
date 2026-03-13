@@ -1,5 +1,9 @@
 # Legs
 
+## Knees
+
+- Nordics
+
 ## Pliometrics
 
 - [IG](https://www.instagram.com/reels/C5UEUoXvo41/)
@@ -9,6 +13,12 @@
 ## Squat Variations
 
 [![How Squats Heal the Body](https://img.youtube.com/vi/965Fwq2aVIo/0.jpg)](https://www.youtube.com/watch?v=965Fwq2aVIo)
+
+IG
+
+1. [squats](https://www.instagram.com/reels/DKed7I1T5pE/)
+
+---
 
 1. Standard squat
 2. Prisoner squat
@@ -23,6 +33,8 @@
 11. Tuck jump squat
 12. Knee hop squat
 13. Knee hop jump squat
+14. cossack squat
+15. Dragon/Pistol
 
 ### Advanced Single-Leg
 
