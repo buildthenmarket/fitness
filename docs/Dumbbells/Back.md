@@ -1,1 +1,2 @@
 - [Back Dumbbells IG](https://www.instagram.com/p/DQzePREkap6/)
+- [Medium - IG](https://www.instagram.com/reels/DDfLyvmvlHf/)

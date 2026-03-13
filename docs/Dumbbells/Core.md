@@ -1,5 +1,10 @@
 # Core
 
+## Video
+
+- [Easy - IG](https://www.instagram.com/reels/C_lK0ZPO5Id/)
+- [Medium Difficulty - IG](https://www.instagram.com/reels/C9LBDNoR8Cu/)
+- [Hard- IG](https://www.instagram.com/reels/C_siBjhxtvt/)
 - Russian twists, farmer's walk
 
 ![Dumbbell Core](/dumbbell-abs-exercises.png)

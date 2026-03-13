@@ -2,6 +2,8 @@
 
 - Curls, tricep extensions
 
+- [Medium Difficulty - IG](https://www.instagram.com/p/DFEluh0zhWe/?img_index=1)
+
 [chest renegade pushups](https://x.com/FitnessGuide0/status/2018598581436047412)
 
 ## Biceps Curls
