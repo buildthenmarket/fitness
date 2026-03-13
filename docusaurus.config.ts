@@ -4,9 +4,7 @@ const config = {
   title: 'Fitness Book',
   tagline: 'Workout Overview',
   favicon: 'favicon.ico',
-
-  // Set the production url of your site here
-  url: 'https://fitness.savageceos.com',
+url: 'https://buildthenmarket.github.io',
   organizationName: 'buildthenmarket',
   projectName: 'fitness',
   baseUrl: '/fitness/',
