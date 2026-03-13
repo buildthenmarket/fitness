@@ -79,6 +79,8 @@ Isometric exercises are a great way to supplement your regular workout routine o
 
 ### Movement Flow
 
+- [IG - full body, socks, hardwood floor](https://www.instagram.com/reels/DPl2GRDCBV4/)
+
 1. Plank to Bear Position
 2. Sit through knee
 3. Side kick through

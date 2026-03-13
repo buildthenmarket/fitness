@@ -2,6 +2,8 @@
 
 - Pull-ups, inverted rows, pike push-ups
 
+- [Simple - IG](https://www.instagram.com/reels/C5_U-b0r50p/)
+
 ## Scapula planks
 
 - [IG](https://www.instagram.com/reels/DGvyigUS3lR/)
@@ -31,3 +33,7 @@ Pull-ups are a great compound exercise that works the rhomboids, along with othe
 ### Neck
 
 [![https://www.youtube.com/shorts/7ePlOee7vc0](https://img.youtube.com/vi/7ePlOee7vc0/0.jpg)](https://www.youtube.com/watch?v=shorts/7ePlOee7vc0)
+
+## Deltoid Variations
+
+- [IG](https://www.instagram.com/reels/DBaRMp2u6bJ/)

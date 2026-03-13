@@ -8,6 +8,9 @@
 
 ![Stretching Positions](/stretching-positions.png)
 
+- [IG - Yoga](https://www.instagram.com/yogagirl_anita)
+- [Shoulders - IG](https://www.instagram.com/reels/C5VGsQzO-H0/)
+
 ## Middle Split Variations
 
 [IG](https://www.instagram.com/reel/C1JEetJP4q2/)
