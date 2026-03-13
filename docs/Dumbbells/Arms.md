@@ -2,6 +2,7 @@
 
 - Curls, tricep extensions
 
+- [![Easy - Shadow Boxing - YouTube Short](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)shorts/8fFmOohbooY
 - [Medium Difficulty - IG](https://www.instagram.com/p/DFEluh0zhWe/?img_index=1)
 
 [chest renegade pushups](https://x.com/FitnessGuide0/status/2018598581436047412)

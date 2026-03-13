@@ -1,6 +1,8 @@
 # Core
 
+- [Easy - IG](https://www.instagram.com/reels/DH9cT7iTnrp/)
 [standing abs workout](https://www.instagram.com/reels/DI3rCjksiYf/)
+- [Advanced - IG](https://www.instagram.com/reels/DLi_4t9TkHO/)
 
 - Planks, leg raises, hollow body
 
