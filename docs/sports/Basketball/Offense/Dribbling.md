@@ -2,6 +2,10 @@
 
 - [IG](https://www.instagram.com/reels/C5lU-5WO0HB/)
 
+## John Wall
+
+- [YouTube 12min](https://www.youtube.com/watch?v=CMqs3dH4bF8)
+
 ## Kyrie - 'Feint'
 
 - [IG](https://www.instagram.com/reels/C5ZGNwKPCv1/)
