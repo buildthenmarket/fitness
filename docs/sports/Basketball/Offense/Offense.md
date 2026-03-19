@@ -12,6 +12,13 @@
 
 [![YouTube - Kyrie](https://img.youtube.com/vi/40odDHg3FDU/0.jpg)](https://www.youtube.com/watch?v=40odDHg3FDU)
 
+## how to attack the zone
+
+-   **The High Post Flash:** Have your best passer or a big man "flash" to the free-throw line. This forces the middle defender to step up, leaving the baseline open for cutters or short corner shots.
+-   **Screening the Zone:** Unlike man-to-man, you screen the *defender* to prevent them from sliding. A simple "pin-down" screen on the outside of the bottom defenders can create a wide-open corner three.
+-   **Overloading:** Move three offensive players to one side of the court (e.g., corner, wing, and short corner). A 2-3 zone only has two defenders on that side, so someone will always be open if you move the ball quickly.
+
+
 ## Luka Pullback
 
 - [IG](https://www.instagram.com/reels/DHvtcLgR-8G/)

@@ -1,1 +1,2 @@
 - [IG](https://www.instagram.com/reels/DIOfj3tRkH8/)
+- [Plantar](https://www.instagram.com/p/DG-_UpfodxU/)

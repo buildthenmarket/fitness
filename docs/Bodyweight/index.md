@@ -2,7 +2,9 @@
 
 Bodyweight training using minimal or no equipment.
 
+- [IG - 40 yr old fitness test](https://www.instagram.com/p/DE-SF_4z9jT/)
 - [IG Example - Daily 50](https://www.instagram.com/reels/DOo6Y2UDAz7/)
+- [IG - Advanced > Basic flow](https://www.instagram.com/reels/DEViBhkSqsa/)
 
 ## Sedentary Lifestyle
 

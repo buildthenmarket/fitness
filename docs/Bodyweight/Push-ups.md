@@ -4,18 +4,27 @@
 
 ## Push-up Variations
 
-- standard push-up
-- wide grip push-up
-- diamond push-up/Close-grip push-ups
-- decline push-up (feet elevated)
-- incline push-up (hands elevated)
-- archer push-up
-- shoulder tap push-up
-- knee tap push-up
-- toe tap / toe reach push-up
+- standard
+- wide grip
+- diamond aka Close-grip
+- decline (feet elevated)
+- incline (hands elevated)
+- shoulder tap
+- knee tap
+- toe tap / toe reach
 - crawl into squat
-- mike tyson push-up
-- clap push-up
+- mike tyson
+- clap
+- archer
+- typewriter
+- cobra
+
+### Videos
+
+- [IG - Advanced](https://www.instagram.com/reels/DEuNMjLul6M/)
+- [IG](https://www.instagram.com/reels/C8gBvDWofN5/)
+- [IG](https://www.instagram.com/reels/C_JV1hmvIip/)
+- [IG](https://www.instagram.com/reels/C-6aocxNYmF/)
 
 ### Scapular Push-ups
 

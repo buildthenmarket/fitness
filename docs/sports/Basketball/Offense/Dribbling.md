@@ -1,3 +1,7 @@
+## footwork
+
+- [YouTube Short](https://www.youtube.com/shorts/HrskZ_OM_hE)
+
 ## Loose Fingers
 
 - [IG](https://www.instagram.com/reels/C5lU-5WO0HB/)
