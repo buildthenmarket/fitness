@@ -1,6 +1,8 @@
 # Lifting
 
-![](/lifting-schedule.png)
+![workout schedule](/lifting-schedule.png)
+
+![workout program](/workout-program.png)
 
 ## Tips
 
