@@ -4,6 +4,11 @@
 
 - pass over
 - swing
+---
+
+## traps
+
+bench > prone dumbbell raise
 
 ---
 

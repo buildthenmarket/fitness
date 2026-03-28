@@ -1,4 +1,4 @@
-# Legs
+# Leg exercises with bodyweight only
 
 ## Knees
 
